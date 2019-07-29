@@ -10,5 +10,5 @@
 
 * Open project folder
 * Clone this repository
-* Set new upstream-url (if using version control for project)
+* git remote rm origin
 * Modify CMakeLists.txt, launch.json and source files as required
